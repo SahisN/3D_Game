@@ -4,6 +4,7 @@
 <h3>Team Members (Contributors)</h3>
 <ul>
   <li>Sahis Neupane</li>
+  <li> Luis Badillo </li>
 </ul>
 </div>
 
@@ -20,6 +21,7 @@
   </h3>
   <ul>
     <a href='https://education.github.com/git-cheat-sheet-education.pdf'> Access Git command list</a>
+    
   </ul>
 </div>
 
