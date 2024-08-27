@@ -9,9 +9,18 @@
 
 <!-- Resources like how to use git, Unity -->
 <div>
-  <h3>
+  <h1>
     <u>Resources</u>
+  </h1>
+  <h3>How to download Unity</h3>
+  <br/>
+  
+  <h3>
+    Git command cheatsheet
   </h3>
+  <ul>
+    <a href='https://education.github.com/git-cheat-sheet-education.pdf'> Access Git command list</a>
+  </ul>
 </div>
 
 
