@@ -16,7 +16,7 @@
   <h3>How to download Unity</h3>
   <br/>
     <ul>
-    <a href='https://unity.com/products/unity-student'> Unity Student Download Link</a>
+    <a href='https://unity.com/products/unity-student'> Unity Download Link</a>
 
   </ul>
   <h3>
