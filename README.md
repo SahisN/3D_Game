@@ -5,7 +5,7 @@
 <ul>
   <li>Sahis Neupane</li>
   <li> Luis Badillo </li>
-  <li>Jacky Man, scan5731@gmail.com</li>
+  <li>Jacky Man</li>
 </ul>
 </div>
 
