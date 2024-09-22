@@ -30,7 +30,6 @@ Thumbs.db
 *.suo
 *.user
 *.userprefs
-*.unity
 *.dll
 *.exe
 *.pdb
