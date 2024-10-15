@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 7877a047dc9664336a19ff55159ae6ba
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6705033011469140968
+    second: NurbsCurve|Cube.001Action
+  - first:
+      74: -2540665342457108697
+    second: NurbsCurve|Cube.001Action.001
+  - first:
+      74: 594989926235626323
+    second: NurbsCurve|Cube.001Action.002
+  - first:
+      74: 6707956988312587728
+    second: NurbsCurve|Key.001Action
+  - first:
+      74: -8304505223822546793
+    second: NurbsCurve|KeyAction
+  - first:
+      74: -8077896152411651450
+    second: NurbsCurve|KeyAction.001
+  - first:
+      74: 3622878563339413113
+    second: NurbsCurve|KeyAction.002
+  - first:
+      74: 5535878005434003492
+    second: NurbsCurve|NurbsCurve.001Action
+  - first:
+      74: 7128152436475500432
+    second: NurbsCurve|NurbsCurveAction
+  - first:
+      74: -8027471050439786213
+    second: puncher front cover|Cube.001Action
+  - first:
+      74: -3851881625353303767
+    second: puncher front cover|Cube.001Action.001
+  - first:
+      74: -1769693048997329483
+    second: puncher front cover|Cube.001Action.002
+  - first:
+      74: -6304254050271804079
+    second: puncher front cover|Key.001Action
+  - first:
+      74: 5839784505986907878
+    second: puncher front cover|KeyAction
+  - first:
+      74: 2592585037255788843
+    second: puncher front cover|KeyAction.001
+  - first:
+      74: -5620933226239704206
+    second: puncher front cover|KeyAction.002
+  - first:
+      74: 1670583667015513221
+    second: puncher front cover|NurbsCurve.001Action
+  - first:
+      74: 6952363264019813467
+    second: puncher front cover|NurbsCurveAction
+  - first:
+      74: 5234563620634584478
+    second: NurbsCurve.001|Cube.001Action
+  - first:
+      74: 5185270360518999967
+    second: NurbsCurve.001|Cube.001Action.001
+  - first:
+      74: -5040998173315764948
+    second: NurbsCurve.001|Cube.001Action.002
+  - first:
+      74: 539893342843864697
+    second: NurbsCurve.001|Key.001Action
+  - first:
+      74: -2253614098143262939
+    second: NurbsCurve.001|KeyAction
+  - first:
+      74: -911282287330679242
+    second: NurbsCurve.001|KeyAction.001
+  - first:
+      74: 563637613015760184
+    second: NurbsCurve.001|KeyAction.002
+  - first:
+      74: 7718310836107176038
+    second: NurbsCurve.001|NurbsCurve.001Action
+  - first:
+      74: -9142629419110970966
+    second: NurbsCurve.001|NurbsCurveAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
