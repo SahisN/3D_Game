@@ -8,8 +8,9 @@ public class PlayerRespawn : MonoBehaviour
         if (other.CompareTag("Obstacle"))  // Check if the player touches the respawn object
         {
             RespawnPlayer();
-
         }
+
+        RespawnPlayer();
     }
 
     void RespawnPlayer()
